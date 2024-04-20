@@ -4,15 +4,25 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 ---
 
 <BaseLayout title="Resume" sideBarActiveItemID="cv">
-  <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Profile</div>
+  <div class="mb-5 flex justify-between items-center">
+    <div class="text-3xl font-bold">CV</div>
+    <a href="https://drive.google.com/file/d/1WB7C4QYwO1JwTdjOVDQuHMPCUz7Wpv7b/view?usp=sharing" download="Omar_Hammami_Resume.pdf" class="btn">
+      Download Real CV
+    </a>
   </div>
 
   <div class="mb-10 text-justify">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <p>My academic journey started in 2018 when I enrolled in at Tandon for computer science. During that time, I was interested in the field of 
+    data science, as during that time people kept on comparing data to the new oil (remember that). I took some data science and data visualizatioin classes very
+    early on in my studies, and fell in love with the field of data science. Naturally that converged into machine learning, as I joined the C2Smart center as 
+    a machine learning researcher. Even if I didnt know much at that time, I kept on pushing myself towards the machine learning field. Eventually I graduated with my B.S 
+    with a masters in sight.
+    </p>
+    <p class="mt-4"></p>
+    <p>
+    During my M.S, I delved much deeper into deep learning, especially from an engineering perspective. Sure you can know all of the theoretical
+    stuff you learn in class... but no one is going to teach you how to deploy a model in the real world. I learned that through my work experience during my M.S.
+    </p>
   </div>
 
   <div class="mb-5">
@@ -21,12 +31,12 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
   <div class="time-line-container grid gap-4 mb-10">
     <TimeLineElement
-      title="Title Name"
-      subtitle="[start year] to [end year] at [Study Center Name], [City], [Country]"
+      title="M.S in Computer Science"
+      subtitle="Fall 2022 to May 2024 at NYU Tandon School of Engineering, New York City, USA"
     />
     <TimeLineElement
-      title="Title Name"
-      subtitle="[start year] to [end year] at [Study Center Name], [City], [Country]"
+      title="B.S in Computer Science, Minor in Math"
+      subtitle="Sept 2018 to May 2022 at NYU Tandon School of Engineering, New York City, USA"
     />
   </div>
 
@@ -36,57 +46,69 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
   <div class="time-line-container mb-10">
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Machine Learning Engineer"
+      subtitle="Aug 2023 to Dec 2023 at Stealth Startup, Washington D.C., USA"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      Developed a computer vision and pose detection machine learning backend and cloud inference/training for a sports-related startup.
     </TimeLineElement>
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Machine Learning/AI Intern"
+      subtitle="July 2023 to Sept 2023 at The New School, New York City, USA"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      Built a proof of concept large language model based chatbot for student assistance, focusing on prompt engineering and RAG.
     </TimeLineElement>
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Computer Vision Student Researcher"
+      subtitle="Sept 2020 to Jan 2023 at C2Smart Center, New York City, USA"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+    Worked on multiple computer vision projects involving object detection, tracking, and dataset creation for model training. Also worked on classic ML implementations for papers, and one blockchain project.
     </TimeLineElement>
   </div>
 
   <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Certifications</div>
+    <div class="text-3xl w-full font-bold">Publications</div>
   </div>
 
-  <ul class="list-disc mx-6 mb-10 grid gap-2">
-    <li>
-      <a href="#" target="_blank"> Certification Name (with link)</a>
-    </li>
-    <li>
-      <a href="#" target="_blank"> Certification Name (with link)</a>
-    </li>
-  </ul>
+  <div class="mb-10">
+    <ul class="list-disc mx-6">
+      <li>
+        <h4 class="font-bold">
+          <a href="https://doi.org/10.1016/j.tra.2022.05.024" target="_blank" style="color: #8b5cf6; text-decoration: underline;">
+            "A new curb lane monitoring and illegal parking impact estimation approach based on queueing theory and
+            computer vision for cameras with low resolution and low frame rate", August 2022.
+          </a>
+        </h4>
+        <p class="text-sm">Implemented the "curb lane occupancy estimation leveraging traffic cameras and computer vision technique".</p>
+      </li>
+    </ul>
+  </div>
 
   <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Skills</div>
+    <div class="text-3xl w-full font-bold">Notable Skills</div>
   </div>
 
   <ul class="list-disc md:columns-5 columns-2 mx-6">
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
+    <li>Python</li>
+    <li>C++</li>
+    <li>TensorFlow</li>
+    <li>PyTorch</li>
+    <li>Docker</li>
+    <li>SQL</li>
+    <li>Pandas</li>
+    <li>Google Cloud Platform</li>
+    <li>Rust</li>
+    <li>Solidity</li>
+    <li>Data Visualization</li>
+    <li>Hyperledger Fabric</li>
+    <li>Chainlit</li>
+    <li>OpenGL</li>
+  </ul>
+
+  <div class="mt-10">
+    <div class="text-3xl w-full font-bold">Awards</div>
+  </div>
+  <ul class="list-disc mx-6">
+    <li>Mawhiba Scholarship, from King Abdulaziz & His Companions Foundation-- 2018</li>
+    <li>Mawhiba Scholarship, from King Abdulaziz & His Companions Foundation-- 2022</li>
   </ul>
 </BaseLayout>

@@ -1,56 +1,26 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
-tags: ["tokio"]
+title: "About me"
+description: "Just a little casual post about me. NO SCHOOL/ACADEMIC INFO imma just give a real intro on myself as a human."
+pubDate: "April 20 2024"
+heroImage: "/blogs/post1/me.webp"
+tags: ["ME"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+I was born in Ohio to a Saudi father and a Chinese-Dominican mother. Life was dandy in ol Ohio-- you know how it is. Suburbs... corn... large swathes of land... yea. I have two sisters with me, one a year older and one a year younger.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+Id say I had a pretty nice childhood. My dad also being a computer science guy, I grew up pretty nerdy. Always into computers, videogames, etc. To this day I still have no hand eye coordination, actually.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+![me as a kid](/blogs/post1/baby.webp) 
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+In 6th grade my family moved to Saudi Arabia. Huge mental shift from white midwest America to Saudi Arabia, an almost demonized country when youre talking in Ohio terms. But it was for the better of me. Finally every other 6th grader ALSO had a mustache-- I wasnt the only one.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+Then after highschool, I accidentally ended up at New York University because my older sister told me to apply. I also ended up as computer science because my dad recommended it. Didnt think much of it. The undergrad experience? Prety nice (developed a knack for devouring textbooks) anyways, I ended up loving NYC and computer science and still do.
+
+Ummm.. hobbies. I love baking bread (covid hobby gone craaaazy). I love cooking too, mostly arab food. Im a huge gym rat, have to go work out at least 5 times a week or my brains melt out my ears. Right now im doing like 275 lbs DEEP back squat 4 reps... today I was dummbbell benching the 85 lbs for maybe like 4 reps. Bicep curl 45 lbs preacher curl maybe 4 reps. Going well tbh. Hmmm. Other hobbiess... I like raving to techno (NYC best for this). I enjoy walking around only if I can see the sun. I like yapping to anyone who will listen, and also like to listen to people yap. And of course, I like doom scrolling (monkey brain).
+![me as a kid](/blogs/post1/bread.webp) 
+
+I love music. I gotta add my spotify current listening to this site. I shall I guess.
+
+Id say im a pretty nice dude. 
+
+Thats enough info for now. If you wanna know more you can email me :)

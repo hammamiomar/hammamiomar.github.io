@@ -5,47 +5,165 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 
 <BaseLayout title = "Projects" sideBarActiveItemID="projects">
   <div>
-    <div class="text-3xl w-full font-bold mb-5">Projects Header</div>
+    <div class="text-3xl w-full font-bold mb-5">Works In Progress...</div>
   </div>
 
   <HorizontalCard
-    title="Demo Project 1"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+    title="PlantTraits2024 Challenge FGVC11"
+    img="/projects/plantraits.webp"
+    desc="A competition to predict plant traits from images and tabular data. My implementation uses image feature extractor and FiLM blocks...will make a blog post when im done. "
+    url="https://github.com/hammamiomar/plantTraits/tree/main"
     badge="NEW"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="Demo Project 2"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    title="Personal Window On Street Parking Detection Notifier"
+    img="/projects/personalparking.webp"
+    desc="I have a car in nyc. I would always like to have it outside my apartment, but I never know for sure when there is a spot available. So im using my old laptops camera long with some computer vision technqiues to build a personal parking notifier..."
     url="#"
+    badge="NEW"
   />
 
   <div>
-    <div class="text-3xl w-full font-bold mb-5 mt-10">Projects Header</div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Older Projects</div>
   </div>
 
   <HorizontalCard
-    title="Demo Project 3"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="FOSS"
+    title="Youtube English To German Sub/Dub Conversion"
+    img="/projects/german.webp"
+    desc="Created a project with a Streamlit frontend that takes an English YouTube video and converts the English audio to German. Also provides German subtitles."
+    url="https://youtu.be/2xcoopVLdYU"
+    tags={["Whisper", "Text to Speech", "ffmpeg"]}
+    date="Fall 2023"
   />
   <div class="divider my-0"></div>
+
   <HorizontalCard
-    title="Demo Project 4"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+    title="Data Visualization Generation Through Chat based Large Language Models"
+    img="/projects/datavisllm.webp"
+    desc="Project that generates code for visualizations that the user describes or uploads a picture of. Allows for fine-tuning of the visualization with more prompting."
+    url="https://drive.google.com/file/d/1i26RnsPqoOrpf9kR0-dbRXOUJ5SsR4jK/view?usp=sharing"
+    tags={["GPT-3", "Python"]}
+    date="Spring 2023"
   />
   <div class="divider my-0"></div>
+
   <HorizontalCard
-    title="Demo Project 5"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    title="Dataset Description Generation through Generated Knowledge Prompting with Large Language Models"
+    img="/projects/datadesc.webp"
+    desc="Implementing dataset description generation through contextual prompting."
+    url="https://drive.google.com/file/d/1ivYQ-I_mpcZpV9nhfsWvZkEpIMjazOwH/view?usp=sharing"
+    tags={["GPT-3", "Python"]}
+    date="Spring 2023"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="A Careful Look into Graph Contrastive Learning"
+    img="/projects/graph.webp"
+    desc="A project where experimentation was done to see if claims made on Graph Contrastive Learning are true, and if they can be improved."
+    url="https://drive.google.com/file/d/1ekjcFVN1Jq6dJ0ETpsyNm2pUHbrF-pYx/view?usp=share_link"
+    tags={["Python", "PyTorch"]}
+    date="Fall 2022"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="SmokeDistract: AR Application"
+    img="/projects/smoke.webp"
+    desc="An augmented reality app that detects objects around the user (YOLOv3), generates activities, and gives them to the user to distract from nicotine cravings."
+    url="https://drive.google.com/file/d/1dpgTfyxXMZndrTg-xmbW6eOpahPn_dV0/view?usp=sharing"
+    tags={["Unity", "ARkit", "C#"]}
+    date="Fall 2022"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+  title="Spotify Currently Listening Blockchain"
+  img="/projects/blockchain.webp"
+  desc="A blockchain implementation that adds a new block containing song information when a new song is played on Spotify."
+  url="#"
+  tags={["Starport", "Golang"]}
+  date="Fall 2021"
+/>
+<div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="SofiaBase"
+    img="/projects/sofia.webp"
+    desc="A philosophical text portal that aims to help users understand and connect their ideas using features supported by GPT-3."
+    url="https://github.com/Demetri65/Sofia-Base"
+    tags={["Python", "Flask", "GPT-3"]}
+    date="Fall 2021"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="NYC DOT Vehicle Tracking and Turning Movement Detection"
+    img="/projects/dot.webp"
+    desc="Implementing and improving intersection tracking and counting on vehicle trajectories, using Deepsort + Yolov5. This project is a Town + Gown project collaborated with DOT and DDC"
     url="#"
+    tags={["Python", "PyTorch", "Deepsort", "Yolov5"]}
+    date="Fall 2021"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="NYC Low Quality Traffic Camera Dataset"
+    img="/projects/nyclow.webp"
+    desc="Curating a low fidelity image dataset for traffic object detection, ensuring all classes of objects are represented correctly."
+    url="#"
+    tags={["Python", "PyTorch", "CVAT"]}
+    date="Fall 2021"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="TREAD: Privacy Preserving Incentivized Connected Vehicle Mobility Data Storage on InterPlanetary-File-System-Enabled Blockchain"
+    img="/projects/tread.webp"
+    desc="Implemented solo RAFT consensus protocol for the ledger."
+    url="https://journals.sagepub.com/doi/full/10.1177/03611981211045074"
+    tags={["Hyperledger Fabric"]}
+    date="July 2021"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="AI for Scientific Research-- Nanodiamonds"
+    img="/projects/diamond.webp"
+    desc="Worked as the machine learning head for the nanodiamonds subteam of the NYU AI for Scientific Research Vertically Integrated Project."
+    url="#"
+    tags={["Python"]}
+    date="June 2021"
+  />
+
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="A New Curb Lane Monitoring and Illegal Parking Impact Estimation Approach"
+    img="/projects/parking.webp"
+    desc="Implementing illegal parking detection on low-quality traffic cameras."
+    url="https://www.sciencedirect.com/science/article/abs/pii/S0965856422001458"
+    tags={["Python", "TensorFlow", "PyTorch"]}
+    date="December 2020"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="Deep Learning-Based Object Detection For Pedestrians, Vehicles and Cyclists Density Approximation and Social Distancing"
+    img="/projects/dist.webp"
+    desc="Implementing social distancing violation detection on low-quality traffic cameras."
+    url="https://docs.google.com/presentation/d/1qZtcuGy1lMyMiQQXJ0j_5qhwhC8FhA0kLHUGOHbH_vo/edit?usp=sharing"
+    tags={["Python", "TensorFlow"]}
+    date="August 2020"
+  />
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="Approaches to Messy Digitized Archival Documents"
+    img="/projects/messy.webp"
+    desc="Performed image preprocessing for OCR on low-quality and messy images."
+    url="https://www.historybeyond.com/projects/messy-digitized-documents/"
+    tags={["Python", "openCV"]}
+    date="June 2020"
   />
 </BaseLayout>
