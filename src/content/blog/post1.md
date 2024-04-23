@@ -8,15 +8,15 @@ tags: ["ME"]
 
 I was born in Ohio to a Saudi father and a Chinese-Dominican mother. Life was dandy in ol Ohio-- you know how it is. Suburbs... corn... large swathes of land... yea. I have two sisters with me, one a year older and one a year younger.
 
-Id say I had a pretty nice childhood. My dad also being a computer science guy, I grew up pretty nerdy. Always into computers, videogames, etc. To this day I still have no hand eye coordination, actually.
+Id say I had a pretty nice childhood. My dad also being a computer science guy, I grew up pretty nerdy. Always into computers, videogames, etc. To this day I still have no hand eye coordination.
 
 ![me as a kid](/blogs/post1/baby.webp) 
 
-In 6th grade my family moved to Saudi Arabia. Huge mental shift from white midwest America to Saudi Arabia, an almost demonized country when youre talking in Ohio terms. But it was for the better of me. Finally every other 6th grader ALSO had a mustache-- I wasnt the only one.
+In 6th grade my family moved to Saudi Arabia. It was a huge mental shift going from midwest America to Saudi Arabia, the latter being an almost demonized country when youre talking in Ohio terms. But it was for the better for me, as now I find myself easily adaptable to new environments. It also helped me out as a teenager, as every other 6th grader ALSO had a mustache-- I was no longer the only one.
 
-Then after highschool, I accidentally ended up at New York University because my older sister told me to apply. I also ended up as computer science because my dad recommended it. Didnt think much of it. The undergrad experience? Prety nice (developed a knack for devouring textbooks) anyways, I ended up loving NYC and computer science and still do.
+Then after highschool, I ended up at New York University because my older sister told me to apply. I chose computer science, because I thought it would be neat. Didnt overthink it too much-- felt like it was my calling. The undergrad experience? Prety nice (developed a knack for devouring textbooks). Happily, I now love NYC and computer science.
 
-Ummm.. hobbies. I love baking bread (covid hobby gone craaaazy). I love cooking too, mostly arab food. Im a huge gym rat, have to go work out at least 5 times a week or my brains melt out my ears. Right now im doing like 275 lbs DEEP back squat 4 reps... today I was dummbbell benching the 85 lbs for maybe like 4 reps. Bicep curl 45 lbs preacher curl maybe 4 reps. Going well tbh. Hmmm. Other hobbiess... I like raving to techno (NYC best for this). I enjoy walking around only if I can see the sun. I like yapping to anyone who will listen, and also like to listen to people yap. And of course, I like doom scrolling (monkey brain).
+Ummm.. hobbies. I love baking bread (covid hobby gone craaaazy). I love cooking too, mostly arab food. Im a huge gym rat, have to go work out at least 5 times a week or my brains melt out my ears. Right now im doing like 275 lbs DEEP back squat 4 reps... today I was dummbbell benching the 85 lbs for maybe like 4 reps. Bicep curl 45 lbs preacher curl maybe 4 reps. Going well tbh. Hmmm. Other hobbiess... I like raving to techno (NYC is the best for this). I enjoy walking around only if I can see the sun. I like yapping to anyone who will listen, and also like to listen to people yap. And of course, I like doom scrolling (monkey brain).
 ![me as a kid](/blogs/post1/bread.webp) 
 
 I love music. I gotta add my spotify current listening to this site. I shall I guess.
