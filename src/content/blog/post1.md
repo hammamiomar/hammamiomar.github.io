@@ -16,8 +16,7 @@ In 6th grade my family moved to Saudi Arabia. It was a huge mental shift going f
 
 Then after highschool, I ended up at New York University because my older sister told me to apply. I chose computer science, because I thought it would be neat. Didnt overthink it too much-- felt like it was my calling. The undergrad experience? Prety nice (developed a knack for devouring textbooks). Happily, I now love NYC and computer science.
 
-Ummm.. hobbies. I love baking bread (covid hobby gone craaaazy). I love cooking too, mostly arab food. Im a huge gym rat, have to go work out at least 5 times a week or my brains melt out my ears. Hmmm. Other hobbiess... I like raving to techno (NYC is the best for this). I enjoy walking around only if I can see the sun. I like yapping to anyone who will listen, and also like to listen to people yap. And of course, I like doom scrolling (monkey brain).
-![me as a kid](/blogs/post1/bread.webp) 
+Ummm.. hobbies. I love baking bread (covid hobby gone craaaazy). I love cooking too, mostly arab food. Im a huge gym rat, have to go work out at least 5 times a week or my brains melt out my ears. Hmmm. Other hobbiess... I like raving to techno (NYC is the best for this). I enjoy walking around only if I can see the sun. I like yapping to anyone who will listen, and also like to listen to people yap.
 
 I love music. I gotta add my spotify current listening to this site. I shall I guess.
 
